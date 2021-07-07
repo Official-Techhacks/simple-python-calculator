@@ -1,6 +1,7 @@
 # simple-python-calculator
 
 You can perform all basic arithmetic operations.
+Python simple calculator using tkinter.
 To run this simple project you must have Python installed in your desktop/laptop
 
 Steps:
@@ -20,6 +21,9 @@ Software:
    
 2. VS Code
    Download Link: https://code.visualstudio.com/download
+   
+   
+ Youtube Link: https://youtu.be/2CS2P4VnAkQ
    
    ![image](https://user-images.githubusercontent.com/87000060/124700743-e768bc80-df0a-11eb-925c-e86bf7ebde09.png)
    
